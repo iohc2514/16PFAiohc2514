@@ -1,5 +1,6 @@
+#_*_coding:cp949
 print "I will now count my chickens:"
-
+#한글 입력방법
 print "Hens", 25 + 30 / 6
 print "Roosters", 100 - 25 * 3 % 4
 # 75 % 4 = 3
