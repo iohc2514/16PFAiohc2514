@@ -1,0 +1,10 @@
+ex11에서 파이썬을 실행시킨뒤 raw_input() 입력한뒤에 엔터를 누르지않아 오류가 난줄알고 더이상 진행을 하지 못했다.
+pydoc input
+pydoc raw input
+which pydoc
+pydoc print
+#-*-coding:cp949
+$ = 터미널
+cat = 파일안 내용 보여준다
+ctrl+b 어디서 사용되는지
+어떤 합수인지

@@ -5,7 +5,7 @@ def print_tow(*args) :
 
 # ok, that *args is actually pointless, we can just do this
 def print_two_again(arg1, arg2) :
-    print ("arg1: %r arg2: %r" % (arg1, arg2))
+    print ("arg1: %r, arg2: %r" % (arg1, arg2))
 
 # this just takes one argument
 def print_one(arg1):
