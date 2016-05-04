@@ -8,3 +8,13 @@ $ = 터미널
 cat = 파일안 내용 보여준다
 ctrl+b 어디서 사용되는지
 어떤 합수인지
+def 함수이름 매개변수
+re trun
+dir /w
+doc package
+함수 = 펀션
+at (위치) 0x 16진수
+펄스트앤 라스트
+import modul
+import ex 25 불러오기
+ex26 해보기
