@@ -10,6 +10,7 @@ elif cars < people :
     print "We should not take the cars."
 else:
     print"We can't decide."
+# elif 갯수 제한 없음 else 한개만 가능
 # if 이것에 해당되면 ㄱㄱ>  NO 일경우 이것에 해당되면 elif > 그래도 NO일 경우else
 if trucks > cars  :
     print" That's too many trucks."
