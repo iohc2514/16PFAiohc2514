@@ -18,3 +18,8 @@ print("17. not ('testing'' == 'testing' and 'Zed' == 'Cool Guy') = %s" % (not ((
 print("18. 1 == 1 and not ('testing' == 1 or 1 == 0) = %s" % ((1 == 1) and not (("testing" == 1 or 1 == 0))))
 print("19. 'chunky' == 'bacon'' and not (3 == 4 or 3 == 3) = %s" % (('chunky' == 'bacon') and not ((3 == 4 or 3 == 3))))
 print("20. 3 == 3 and not ('testing' == 'testing' or 'Python' == 'Fun') = %s" % ((3 == 3) and not (('testing' == 'testing') or ('Python' == 'Fun'))))
+
+print("extra 1. 'test' and 'test' = = %s" % str('test' and 'test'))
+print("extra 2. 1 and 1 = = %s" % str(1 and 1))
+print("extra 3. False and 1 = = %s" % str(False and 1))
+print("extra 4. True and 1 = = %s" % str(True and 1))
