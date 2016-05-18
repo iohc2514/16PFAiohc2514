@@ -1,6 +1,6 @@
 #_*_coding:cp949
 from sys import exit
-
+#구조적 프로그램 함수의 호출
 def gold_room():
     print "This room is full of gold.  How much do you take?"
 
@@ -26,7 +26,7 @@ def bear_room():
 
     while True:
         choice = raw_input("> ")
-
+#스위치 케이스 블락
         if choice == "take honey":
             dead("The bear looks at you then slaps your face off.")
         elif choice == "taunt bear" and not bear_moved:
@@ -53,7 +53,7 @@ def cthulhu_room():
         dead("Well that was tasty!")
     else:
         cthulhu_room()
-
+#재귀호출
 
 def dead(why):
     print why, "Good job!"
