@@ -18,3 +18,9 @@ at (위치) 0x 16진수
 import modul
 import ex 25 불러오기
 ex26 해보기
+
+range[1,10,1]
+range[1,11,1]=range[1,10+1,1]
+range[1부터,10까지,1간격]
+= 매계변수 
+== 같은지 확인 
