@@ -1,3 +1,4 @@
+#_*_coding:cp949
 from sys import exit
 
 def gold_room():
