@@ -1,3 +1,4 @@
+#_*_coding:cp949
 print "You enter a dark room with two doors.  Do you go through door #1 or door #2?"
 
 door = raw_input("> ")
@@ -31,3 +32,6 @@ elif door == "2":
 
 else:
     print "You stumble around and fall on a knife and die.  Good job!"
+
+# 객체지향 프로그램
+# 구조적 프로그램 
