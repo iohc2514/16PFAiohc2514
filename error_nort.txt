@@ -18,3 +18,20 @@ at (위치) 0x 16진수
 import modul
 import ex 25 불러오기
 ex26 해보기
+
+def f(x)
+ if x=-1
+  return
+ else
+  return
+ 리 커젼 로봇 사용금지 엄격한경우
+ㄷㅌ36 MISRA-C
+       CERT-C
+       CODING Rule
+
+29-36 중요
+if wile for 문
+프린트문 를 통해 확인할수잇다
+
+ 문자열 숫장 키가능 
+변수 불가능0 
